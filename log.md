@@ -9,3 +9,11 @@
 **Link to work:** 
 1. [Go Bootcamp](http://www.golangbootcamp.com/book/basics)
 2. [Learn X in Y minutes](https://learnxinyminutes.com/docs/es-es/go-es/)
+
+### Day 1: January 4, 2017
+**Today's Progress**: Completed Chapter 2 of golangbootcamp.
+
+**Thoughts:** For now is smilar to Scala.
+
+**Link to work:** 
+[Chapter 2](https://github.com/f3r10/golangbootcamp/blob/master/chapter2.go)
