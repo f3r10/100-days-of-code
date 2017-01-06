@@ -17,3 +17,12 @@
 
 **Link to work:** 
 [Chapter 2](https://github.com/f3r10/golangbootcamp/blob/master/chapter2.go)
+
+### Day 2: January 5, 2017
+
+**Today's Progress**: Completed Chapter 3 of golangbootcamp.
+
+**Thoughts:** Learned basic types, type converstion, type assertion, Structs and Composition. I have to practice composition
+
+**Link to work:** 
+[Chapter 2](https://github.com/f3r10/golangbootcamp/blob/master/chapter3.go)
