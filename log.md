@@ -25,4 +25,12 @@
 **Thoughts:** Learned basic types, type converstion, type assertion, Structs and Composition. I have to practice composition
 
 **Link to work:** 
-[Chapter 2](https://github.com/f3r10/golangbootcamp/blob/master/chapter3.go)
+[Chapter 3](https://github.com/f3r10/golangbootcamp/blob/master/chapter3.go)
+
+### Day 3: January 9, 2017
+**Today's Progress**: Started with React, I learned how to add my own componets
+
+**Thoughts:** I can run the proyect in my android device, but with iOS just at the emulator. I have to research how to run in my iphone directly.
+
+**Link to work:** 
+[SuperHero App](https://github.com/f3r10/SuperHero)
