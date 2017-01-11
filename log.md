@@ -34,3 +34,11 @@
 
 **Link to work:** 
 [SuperHero App](https://github.com/f3r10/SuperHero)
+
+### Day 4: January 10, 2017
+**Today's Progress**: Today I learn about Navigator and flex 
+
+**Thoughts:** I have to center the principal text.
+
+**Link to work:** 
+[SuperHero App](https://github.com/f3r10/SuperHero)
