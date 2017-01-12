@@ -42,3 +42,11 @@
 
 **Link to work:** 
 [SuperHero App](https://github.com/f3r10/SuperHero)
+
+### Day 5: January 11, 2017
+**Today's Progress**: Learning advance stuff about Flexbox, and reading how write clean code with js
+
+**Thoughts:** Refactor the  javascript code of the current proyect 
+
+**Link to work:** 
+[SuperHero App](https://github.com/f3r10/SuperHero)
